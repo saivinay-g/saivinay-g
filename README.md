@@ -15,6 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saivinaygondrala&show_icons=true&locale=en&layout=compact" alt="saivinaygondrala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saivinaygondrala&show_icons=true&locale=en" alt="saivinaygondrala" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saivinaygondrala&" alt="saivinaygondrala" /></p>
