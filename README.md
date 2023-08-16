@@ -11,9 +11,6 @@ I'm currently working on my full stack project<br>Alongside im learning React<br
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saivinaygondrala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=saivinay_g)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
