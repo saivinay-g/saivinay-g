@@ -18,3 +18,9 @@ I'm currently working on my full stack project<br>Alongside im learning React<br
 [![](https://visitcount.itsvg.in/api?id=saivinaygondrala&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📕Latest Blog Posts
+
+- [Command Prompt Hacks for Windows](https://www.geeksforgeeks.org/command-prompt-hacks-for-windows/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
+- [CCreating a Dynamic Array in Java](https://www.geeksforgeeks.org/creating-a-dynamic-array-in-java/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
+
