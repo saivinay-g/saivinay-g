@@ -21,6 +21,8 @@ I'm currently working on my full stack project<br>Alongside im learning React<br
 ![JDBC](https://img.shields.io/badge/JDBC-%23052F5F.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Servlets](https://img.shields.io/badge/Servlets-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JUnit5](https://img.shields.io/badge/JUnit5-%23F79900.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
