@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on my full stack project<br>Alongside im learning React<br>
+I'm a passionate and results-driven Computer Science professional with hands-on experience in full-stack development, Java backend systems, and data-driven problem-solving. I enjoy building scalable web applications and working with modern technologies like Java, Spring Boot, React, MySQL, and cloud platforms. I'm continuously learning and excited about contributing to impactful software projects that solve real-world challenges.
+
+
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
