@@ -16,7 +16,7 @@ I'm a **Full Stack Java Developer** and **Data Analytics graduate student** with
 - 🎓 Master’s in Advanced Data Analytics @ UNT (May 2025)
 - 🔭 Recently completed: Air Quality Forecasting with ML
 - 🛠️ Focused on backend architecture, performance tuning, and analytics integration
-- 🌱 Currently learning: Spring Security, CI/CD Pipelines, Microservices Design
+- 🌱 Currently learning: Spring Security, Microservices Design
 
 ---
 
