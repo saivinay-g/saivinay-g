@@ -24,6 +24,16 @@ I'm a passionate and results-driven Computer Science professional with hands-on 
 ![Servlets](https://img.shields.io/badge/Servlets-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JUnit5](https://img.shields.io/badge/JUnit5-%23F79900.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-%23A6CEE3.svg?style=for-the-badge&logo=python&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23EA580C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
