@@ -52,7 +52,7 @@ With a strong foundation in object-oriented programming, RESTful API design, and
 ## 📕Latest Blog Posts
 
 - [Command Prompt Hacks for Windows](https://www.geeksforgeeks.org/command-prompt-hacks-for-windows/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
-- [CCreating a Dynamic Array in Java](https://www.geeksforgeeks.org/creating-a-dynamic-array-in-java/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
+- [Creating a Dynamic Array in Java](https://www.geeksforgeeks.org/creating-a-dynamic-array-in-java/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
 
 
 ### ✍️ Random Dev Quote
