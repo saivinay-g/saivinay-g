@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a passionate and results-driven Computer Science professional with hands-on experience in full-stack development, Java backend systems, and data-driven problem-solving. I enjoy building scalable web applications and working with modern technologies like Java, Spring Boot, React, MySQL, and cloud platforms. I'm continuously learning and excited about contributing to impactful software projects that solve real-world challenges.
+I'm a passionate and results-oriented Computer Science professional with hands-on experience in full-stack development, Java backend engineering, and data-driven problem solving. I specialize in building scalable, high-performance web applications using modern technologies such as Java, Spring Boot, React.js, MySQL, and cloud platforms like AWS.
+
+With a strong foundation in object-oriented programming, RESTful API design, and database management, I enjoy creating solutions that deliver real-world impact. I'm committed to continuous learning and love collaborating on innovative projects that push the boundaries of technology.
+
 
 
 # 💻 Tech Stack:
