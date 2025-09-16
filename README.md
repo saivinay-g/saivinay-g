@@ -68,11 +68,11 @@ I'm a **Full Stack Java Developer** and **Data Analytics graduate student** with
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saivinaygondrala&theme=vue-dark&show_icons=true&count_private=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saivinay-g&theme=vue-dark&show_icons=true&count_private=true" width="450"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivinaygondrala&theme=vue-dark" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivinay-g&theme=vue-dark" width="450"/>
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=saivinaygondrala&theme=flat&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saivinay-g&theme=flat&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="700"/>
 </div>
 
 ---
