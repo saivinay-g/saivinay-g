@@ -92,7 +92,7 @@ I'm a **Full Stack Java Developer** and **Data Analytics graduate student** with
 
 <div align="center">
 
-📫 Reach me at: **[saivinaygondrala@gmail.com](mailto:saivinaygondrala@gmail.com)**  
+📫 Reach me at: 
 🌐 [Portfolio](https://www.saivinay.dev) | [LinkedIn](https://linkedin.com/in/saivinay-g)
 
 [![](https://visitcount.itsvg.in/api?id=saivinaygondrala&icon=0&color=0)](https://visitcount.itsvg.in)
