@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello, I'm Sai Vinay Gondrala</h1>
+  <h1>👋 Hello, I'm Sai Vinay G</h1>
   <p>
     <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Backend Developer"/>
     <img src="https://img.shields.io/badge/Fullstack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer"/>
