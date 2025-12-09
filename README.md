@@ -63,17 +63,6 @@ I'm a **Full Stack Java Developer** and **Data Analytics graduate student** with
 > - Built reusable UI components & fixed accessibility issues (WCAG 2.1)  
 > - Reviewed PRs and actively collaborated with contributors across the globe
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saivinay-g&theme=vue-dark&show_icons=true&count_private=true" width="450"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivinay-g&theme=vue-dark" width="450"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=saivinay-g&theme=flat&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="700"/>
-</div>
 
 ---
 
