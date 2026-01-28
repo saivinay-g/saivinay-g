@@ -70,13 +70,3 @@ I'm a **Full Stack Java Developer** and **Data Analytics graduate student** with
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-<div align="center">
-
-📫 Reach me at: 
-🌐 [Portfolio](https://www.saivinay.dev) | [LinkedIn](https://linkedin.com/in/saivinay-g)
-
-[![](https://visitcount.itsvg.in/api?id=saivinaygondrala&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
