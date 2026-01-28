@@ -2,8 +2,6 @@
   <h1>👋 Hello, I'm Sai Vinay G</h1>
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 I'm a **Full Stack Java Developer** and **Data Analytics graduate student** with a passion for building scalable web applications and intelligent backend systems. I specialize in **Java, Spring Boot, React.js, MySQL**, and **AWS**, and bring a data-driven mindset to all my work. I thrive in collaborative environments and love delivering solutions that make a real-world impact.
