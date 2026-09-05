@@ -61,9 +61,3 @@ Java Software Engineer with ~2 years of experience building scalable backend and
 
 **House Rental Application System** — Published (Mar 15, 2024) in IRCTDA2023 Conference, River Publication
 - Research on scalable cloud-based rental systems using AWS, React, Node.js, and MongoDB.
-
-## Contact 📬
-
-- 📍 Location: Phoenix, AZ
-- ✉️ Email: Saivinay.g@outlook.com
-- 🔗 GitHub: https://github.com/saivinay-g
