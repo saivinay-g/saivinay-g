@@ -39,11 +39,6 @@ Java Software Engineer with ~2 years of experience building scalable backend and
 - Contributed React/Next.js features, refactored components to be reusable, and improved page load performance.
 - Participated in peer reviews and fixed bugs across development and staging environments.
 
-## Education 🎓
-
-Master of Computer Science (Data Analytics), University of North Texas — Aug 2023 – May 2025
-CGPA: 3.7/4.0
-
 ## Skills 🛠️
 
 - Languages: Java, SQL, JavaScript, TypeScript, Python, HTML, CSS
